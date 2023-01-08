@@ -12,6 +12,7 @@ form button {
   font-weight: normal;
 }
 
+
 body,
 input,
 textarea {
@@ -126,4 +127,8 @@ footer {
   background-color: #045c01;
   color: #ecf0f1;
   padding: 16px 0;
+}
+.logotipo {
+  display: flex;
+  align-items: center;
 }
